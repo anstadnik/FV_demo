@@ -1,3 +1,5 @@
+[![.github/workflows/publish.yml](https://github.com/anstadnik/FV_demo/actions/workflows/publish.yml/badge.svg)](https://github.com/anstadnik/FV_demo/actions/workflows/publish.yml)
+
 # Simple demo of overfitting
 
 The point of this demo was to just have fun with python in WebAssembly :)
